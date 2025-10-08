@@ -248,7 +248,7 @@ Este projeto serve como uma introdução abrangente ao SQL para analistas de dad
 1. **Clone o Repositório**: Clone este repositório do projeto do GitHub..
 2. **Configure o Banco de Dados**: Execute os scripts SQL fornecidos no arquivo `projeto_sql_p1` para criar e popular o banco de dados.
 3. **Execute as Consultas**:  Use as consultas SQL fornecidas no arquivo `projeto_sql_p1` para realizar sua análise.
-4. **Explore e Modifique**: Sinta-se à vontade para modificar as consultas para explorar diferentes aspectos do conjunto de dados ou responder a outras questões de negócio
+4. **Explore e Modifique**: Sinta-se à vontade para modificar as consultas para explorar diferentes aspectos do conjunto de dados ou responder a outras questões de negócio.
 
 ## Autor – Luiz Eduardo Guedes Amaral
 
