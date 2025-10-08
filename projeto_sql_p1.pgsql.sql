@@ -175,3 +175,4 @@ FROM venda_por_hora
 GROUP BY turno
 
 -- Fim
+
