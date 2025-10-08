@@ -1,4 +1,2 @@
-gitattributes
 *.sql linguagem=SQL
 *.sql gitlab-language=sql
-**/*.sql linguaggio=SQL
